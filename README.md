@@ -12,6 +12,7 @@ A collection of examples that show how the excavator data can
 3. Once open, click the Notebook Viewer link to be able to interact with the notebook in your browser 
   (without executing cells). This should render the figures.
 
+Note, if a notebook doesnt render in GitHub, you can copy and paste it's URL and view it in [nbviewer](https://nbviewer.jupyter.org/)
 ### Executing  
 To execute cells and run the code on your own data:
 
